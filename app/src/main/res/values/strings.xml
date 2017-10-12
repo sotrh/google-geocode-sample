@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoCodeApp</string>
+    <string name="error_location_not_enabled">You must enable location to use this app</string>
+    <string name="error_input_address">Please input an address</string>
+</resources>
